@@ -1,7 +1,7 @@
 /*
  * The MIT License
  *
- * Copyright 2011 Peter Kocsis <p. kocsis. 2. 7182 at gmail.com>.
+ * Copyright 2011 Peter Kocsis <p>p. kocsis. 2. 7182 at gmail.com</p>.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ package com.ftdi;
 
 /**
  * Word Length
- * @author Peter Kocsis <p. kocsis. 2. 7182 at gmail.com>
+ * @author Peter Kocsis <p>p. kocsis. 2. 7182 at gmail.com</p>
  */
 public enum WordLength {
 
